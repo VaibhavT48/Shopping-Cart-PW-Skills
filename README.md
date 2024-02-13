@@ -1,14 +1,16 @@
 # _PW Skills Internship Project: Shopping Cart_
 [![](https://img.shields.io/badge/PWSkills-5A16E0?style=for-the-badge)]() [![](https://img.shields.io/badge/Experience%20Portal-5A16E0?style=for-the-badge)]() [![](https://img.shields.io/badge/Part%20of%20Full%20Stack%20Web%20Web%20Development%20Bootcamp1.0-5A16E0?style=for-the-badge)]()
 
-![Pink Floral Watercolor Quote Twitter Header](https://eict.iitg.ac.in/association_support/112514ebfc69235d331877ee070693c525a801.jpeg)
 
+
+![alt text](https://eict.iitg.ac.in/association_support/112514ebfc69235d331877ee070693c525a801.jpeg)
 
 ## _Teachers_
 [![](https://img.shields.io/badge/Hitesh%20Choudhary%20Sir-5A16E0?style=for-the-badge)]() [![](https://img.shields.io/badge/Anurag%20Tiwari%20Sir-5A16E0?style=for-the-badge)]()
 
 ## _Technology Used_
-[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
+[[!React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
 
 ## _Detailed Project Report_
 _**[Click Here To Preview](https://www.canva.com/design/DAFZPEFk-yc/9MD9ZAnmE7ELUnQFgrfp6A/view?utm_content=DAFZPEFk-yc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**_
