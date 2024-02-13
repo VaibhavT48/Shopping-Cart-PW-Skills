@@ -3,7 +3,7 @@
 
 
 
-![alt text](https://eict.iitg.ac.in/association_support/112514ebfc69235d331877ee070693c525a801.jpeg)
+https://eict.iitg.ac.in/association_support/112514ebfc69235d331877ee070693c525a801.jpeg
 
 ## _Teachers_
 [![](https://img.shields.io/badge/Hitesh%20Choudhary%20Sir-5A16E0?style=for-the-badge)]() [![](https://img.shields.io/badge/Anurag%20Tiwari%20Sir-5A16E0?style=for-the-badge)]()
