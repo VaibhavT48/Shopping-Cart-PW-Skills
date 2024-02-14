@@ -27,7 +27,7 @@ _**[Click Here To Preview HLD](https://www.canva.com/design/DAFZPZsNsDA/mz6obKjJ
 ## _Demo Video_
 _**[Click Here To Preview](https://drive.google.com/file/d/1hZsn60ReM8Trhf2zfIzBkrVA18CECAWh/view)**_
 
-![Library _ Loom - 1 February 2023](https://user-images.githubusercontent.com/91872149/216012666-247a5aa4-b44a-4c73-bf04-2162d30fcf3f.gif)
+
 
 
 ## _LinkedIn Post_
