@@ -4,7 +4,7 @@
 | _**High Level Design(HLD)**_ | _**[Click Here To View](https://www.canva.com/design/DAF8RZl1JOo/bzmMrNs6x5NdDxjdOOwMnw/view?utm_content=DAF8RZl1JOo&utm_campaign=designshare&utm_medium=link&utm_source=editor)**_ |
 | _**Low Level Design(LLD)**_ | _**[Click Here To View](https://www.canva.com/design/DAF8RhjDdDg/EOifKn00mFpNT272O5Lbxg/view?utm_content=DAF8RhjDdDg&utm_campaign=designshare&utm_medium=link&utm_source=editor)**_ |
 | _**Architecture**_ | _**[Click Here To View](https://www.canva.com/design/DAF8RhjDdDg/EOifKn00mFpNT272O5Lbxg/view?utm_content=DAF8RhjDdDg&utm_campaign=designshare&utm_medium=link&utm_source=editor)**_ |
-| _**Detailed Project Report(DRP)**_ | _**[Click Here To View](https://www.canva.com/design/DAFZPEFk-yc/9MD9ZAnmE7ELUnQFgrfp6A/view?utm_content=DAFZPEFk-yc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**_ |
+| _**Detailed Project Report(DRP)**_ | _**[Click Here To View](https://www.canva.com/design/DAF8kQv4ssE/JUI7TIVx_vFtCf2N9mwgIA/view?utm_content=DAF8kQv4ssE&utm_campaign=designshare&utm_medium=link&utm_source=editor)**_ |
 
 
 
